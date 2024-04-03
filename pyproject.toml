@@ -49,7 +49,7 @@ vector-stores-postgres = ["llama-index-vector-stores-postgres"]
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^22"
+black = "^24"
 mypy = "^1.2"
 pre-commit = "^2"
 pytest = "^7"
